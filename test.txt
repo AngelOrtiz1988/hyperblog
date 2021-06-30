@@ -5,3 +5,5 @@ Para el commit 2
 
 Soy ingeniero de Software y estoy conociendo Git
 En Platzi
+
+Gerente TICloud
